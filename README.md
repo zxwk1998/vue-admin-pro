@@ -10,6 +10,6 @@
 
 #### vue2.x 版演示地址：[https://chu1204505056.gitee.io/vue-admin-beautiful-element/](https://chu1204505056.gitee.io/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
-#### 开源地址点我：![](https://img.shields.io/github/stars/chuzhixin/vue-admin-beautiful?style=flat-square&label=Stars&logo=github)[https://github.com/chuzhixin/vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)
+#### 开源地址点我：[![](https://img.shields.io/github/stars/chuzhixin/vue-admin-beautiful?style=flat-square&label=Stars&logo=github)](https://github.com/chuzhixin/vue-admin-beautiful)
 
 [![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin)](https://github.com/chuzhixin/vue-admin-beautiful)
