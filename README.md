@@ -1,12 +1,12 @@
 # 恭喜你发现了新大陆
 
-#### pro 版（vue2.x + element-ui）演示地址：[https://chu1204505056.gitee.io/vue-admin-beautiful-pro/](https://chu1204505056.gitee.io/vue-admin-beautiful-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+#### pro 版（vue2.x + element-ui）演示地址：[https://chu1204505056.gitee.io/admin-pro/](https://chu1204505056.gitee.io/admin-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
-#### pro版（vue3.x + element-plus） 内测版已发布，已全款购买pro版用户可免费升级！！！：[http://beautiful.panm.cn/vue-admin-beautiful-pro-element-plus/](https://beautiful.panm.cn/vue-admin-beautiful-pro-element-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+#### pro版（vue3.x + element-plus） 内测版已发布，已全款购买pro版用户可免费升级！！！：[http://beautiful.panm.cn/vue-admin-beautiful-pro-element-plus/](https://chu1204505056.gitee.io/admin-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
 #### vue3.x  + antdv 版演示地址：[https://chu1204505056.gitee.io/vue-admin-beautiful-antdv/](https://chu1204505056.gitee.io/vue-admin-beautiful-antdv/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
-#### vue3.x + element-plus 版演示地址 [http://beautiful.panm.cn/vue-admin-beautiful-element-plus](http://beautiful.panm.cn/vue-admin-beautiful-element-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+#### vue3.x + element-plus 版演示地址 [https://chu1204505056.gitee.io/vue-admin-beautiful-element-plus](https://chu1204505056.gitee.io/vue-admin-beautiful-element-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
 #### vue2.x 版演示地址：[https://chu1204505056.gitee.io/vue-admin-beautiful-element/](https://chu1204505056.gitee.io/vue-admin-beautiful-element/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
