@@ -2,7 +2,7 @@
 
 #### vue admin pro 版（vue2.x + element-ui）演示地址：[https://chu1204505056.gitee.io/admin-pro/](https://chu1204505056.gitee.io/admin-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
-#### vue admin plus版（vue3.x + element-plus）演示地址：[http://beautiful.panm.cn/admin-plus/](https://chu1204505056.gitee.io/admin-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+#### vue admin plus版（vue3.x + element-plus）演示地址：[https://chu1204505056.gitee.io/admin-plus/](https://chu1204505056.gitee.io/admin-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
 #### vue3.x  + antdv 版演示地址：[https://chu1204505056.gitee.io/vue-admin-beautiful-antdv/](https://chu1204505056.gitee.io/vue-admin-beautiful-antdv/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
